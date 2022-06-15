@@ -1,0 +1,93 @@
+body{
+    background-image: url('../img/img8.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg-dark {
+    background-color: #231818a8!important;
+}
+.navbar-collapse{
+    background-color: #2f242100;
+}
+
+.modal {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 40%;
+    top: 30%; 
+    margin-left: -150px;
+    margin-top: -150px;
+ }
+
+.vform{ 
+
+        padding: 2rem;
+        background-color: rgba(0, 0, 0, 0.267);
+        border-radius: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        width:500px;
+        float:right;
+        text-align:left
+}
+
+.owner
+  {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(219, 223, 219, 0.517);
+    border-radius: 10px;
+  }
+  .imgs
+  {
+      margin-left: 10px;
+  }
+  .imgs img:hover
+  {
+    transform: scale(1.2);
+  }
+  /* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #005ba0;
+  color: white;
+}
+.fa-instagram {
+  background: #ff0000;
+  color: white;
+}
+
+.card
+{
+  overflow: auto;
+}

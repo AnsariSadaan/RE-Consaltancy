@@ -1,0 +1,4 @@
+To do full screen window in VB for Ubuntu : sudo apt install build-essential dkms linux-headers-$(uname -r) /then device -> last option and run
+
+To do full screen window in VB for Kali : sudo apt update && sudo apt install -y linux-headers-$(uname -r) /then device -> last option and run ->disk image will create on desktop -> open disk image file, copy all files to downloads -> terminal -> cd Downloads -> chmod 755 white filenmae -> sudo ./ whitefilename -> shutdown.
+
